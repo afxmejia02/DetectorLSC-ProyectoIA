@@ -1,5 +1,5 @@
 # DETECCCION DE LETRAS DEL ABECEDARIO DEL LENGUAJE DE SEÑAS COLOMBIANO (LSC)
-<img src="multimedia/Banner.jpg">
+<img src="multimedia/Banner.png">
 
 ## Autores:
 
